@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+p{
+    color: blue;
+}
+#location{
+    color: gray;
+}
+.para{
+    color: brown;
+}
+#img{
+    width: 300px;
+    height: 200px;
+}
+#category{
+    border-style: dashed;
+    border-width: 3px;
+    border-color: bisque;
+    background-color: cadetblue;
+}
